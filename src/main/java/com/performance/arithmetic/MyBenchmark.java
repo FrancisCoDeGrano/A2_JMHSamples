@@ -1,4 +1,4 @@
-package com.performance;
+package com.performance.arithmetic;
 
 import org.openjdk.jmh.annotations.*;
 
